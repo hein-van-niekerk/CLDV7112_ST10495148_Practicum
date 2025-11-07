@@ -5872,11 +5872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
+      "projectUniqueName": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
       "projectName": "ST10495148_Practicum",
-      "projectPath": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
+      "projectPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
       "packagesPath": "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\obj\\",
+      "outputPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

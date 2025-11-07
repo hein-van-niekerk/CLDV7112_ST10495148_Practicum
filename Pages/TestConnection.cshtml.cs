@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
-using YourApp.Data;
+using ST10495148_Practicum.Data;
 
-namespace YourApp.Pages
+namespace ST10495148_Practicum.Pages
 {
     public class TestConnectionModel : PageModel
     {

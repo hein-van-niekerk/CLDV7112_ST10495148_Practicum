@@ -1,45 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\",
+  "WorkspaceRootPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\data\\performancemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:data\\performancemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\pages\\testconnection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\testconnection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\data\\datastreamevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:data\\datastreamevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\pages\\testconnection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\testconnection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\pages\\products\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\products\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\pages\\products\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\loadtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\loadtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\loadtest.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\loadtest.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\services\\simulatedeventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:services\\simulatedeventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\testconnection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\testconnection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\testconnection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\testconnection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\products\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\products\\indexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\services\\eventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\pages\\products\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:pages\\products\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\services\\dataprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:services\\dataprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\models\\performancemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:models\\performancemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\services\\eventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:services\\eventhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\downloads\\st10495148_practicum\\st10495148_practicum\\st10495148_practicum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|c:\\users\\rc_student_lab\\source\\repos\\st10495148_practicum\\st10495148_practicum\\st10495148_practicum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0AFE95BA-8625-427A-8CB6-25A204834DD9}|ST10495148_Practicum.csproj|solutionrelative:st10495148_practicum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,28 +94,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:51:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TestConnection.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\TestConnection.cshtml.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml.cs",
               "RelativeToolTip": "Pages\\TestConnection.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T08:23:55.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "TestConnection.cshtml",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml",
               "RelativeDocumentMoniker": "Pages\\TestConnection.cshtml",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\TestConnection.cshtml",
               "RelativeToolTip": "Pages\\TestConnection.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -80,61 +149,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateModel.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\CreateModel.cs",
-              "RelativeDocumentMoniker": "Pages\\Products\\CreateModel.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\CreateModel.cs",
-              "RelativeToolTip": "Pages\\Products\\CreateModel.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Product.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\Product.cs",
+              "RelativeToolTip": "Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:04:07.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T11:59:57.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T09:52:38.787Z",
+              "WhenOpened": "2025-11-07T09:21:23.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Program.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T09:47:21.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T11:59:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:30:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataStreamEvent.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\DataStreamEvent.cs",
+              "RelativeDocumentMoniker": "Data\\DataStreamEvent.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\DataStreamEvent.cs",
+              "RelativeToolTip": "Data\\DataStreamEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:17:09.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformanceMetric.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\PerformanceMetric.cs",
+              "RelativeDocumentMoniker": "Data\\PerformanceMetric.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\PerformanceMetric.cs",
+              "RelativeToolTip": "Data\\PerformanceMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:23:33.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimulatedEventHubService.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\SimulatedEventHubService.cs",
+              "RelativeDocumentMoniker": "Services\\SimulatedEventHubService.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\SimulatedEventHubService.cs*",
+              "RelativeToolTip": "Services\\SimulatedEventHubService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:26:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T09:29:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LoadTest.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\LoadTest.cshtml",
+              "RelativeDocumentMoniker": "Pages\\LoadTest.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\LoadTest.cshtml",
+              "RelativeToolTip": "Pages\\LoadTest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T09:31:00.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadTest.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\LoadTest.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoadTest.cshtml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\LoadTest.cshtml.cs",
+              "RelativeToolTip": "Pages\\LoadTest.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:31:07.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndexModel.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\IndexModel.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\IndexModel.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\IndexModel.cs",
+              "RelativeToolTip": "Pages\\Products\\IndexModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:47:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\CreateModel.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\CreateModel.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\CreateModel.cs",
+              "RelativeToolTip": "Pages\\Products\\CreateModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:04:07.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\DataProcessingService.cs",
+              "RelativeDocumentMoniker": "Services\\DataProcessingService.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\DataProcessingService.cs",
+              "RelativeToolTip": "Services\\DataProcessingService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAswAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:14:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PerformanceMetrics.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Models\\PerformanceMetrics.cs",
+              "RelativeDocumentMoniker": "Models\\PerformanceMetrics.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Models\\PerformanceMetrics.cs",
+              "RelativeToolTip": "Models\\PerformanceMetrics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:18:12.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T09:52:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:47:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "EventHubService.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\EventHubService.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\EventHubService.cs",
               "RelativeDocumentMoniker": "Services\\EventHubService.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\EventHubService.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\Services\\EventHubService.cs",
               "RelativeToolTip": "Services\\EventHubService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,35 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IndexModel.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\IndexModel.cs",
-              "RelativeDocumentMoniker": "Pages\\Products\\IndexModel.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Pages\\Products\\IndexModel.cs",
-              "RelativeToolTip": "Pages\\Products\\IndexModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T09:47:45.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T09:47:29.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "ST10495148_Practicum.csproj",
-              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
               "RelativeDocumentMoniker": "ST10495148_Practicum.csproj",
-              "ToolTip": "C:\\Users\\RC_Student_Lab\\Downloads\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\ST10495148_Practicum\\ST10495148_Practicum\\ST10495148_Practicum.csproj",
               "RelativeToolTip": "ST10495148_Practicum.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

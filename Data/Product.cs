@@ -1,4 +1,4 @@
-namespace YourApp.Models
+namespace ST10495148_Practicum.Data
 {
     public class Product
     {

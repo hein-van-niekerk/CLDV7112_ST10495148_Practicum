@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using YourApp.Data;
-using YourApp.Models;
+using ST10495148_Practicum.Models;
+using ST10495148_Practicum.Data;
 
-namespace YourApp.Pages.Products
+namespace ST10495148_Practicum.Pages.Products
 {
     public class IndexModel : PageModel
     {

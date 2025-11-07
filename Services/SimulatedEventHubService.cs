@@ -1,10 +1,12 @@
 using System.Collections.Concurrent;
 
-namespace YourApp.Services
+namespace ST10495148_Practicum.Services
 {
     public class SimulatedEventHubService
     {
         private readonly ConcurrentQueue<string> _messages = new();
+
+        public int MessageCount => _messages.Count;
 
         public void SendMessage(string message)
         {
@@ -20,7 +22,5 @@ namespace YourApp.Services
             }
             return messages;
         }
-
-        public int MessageCount => _messages.Count;
     }
 }

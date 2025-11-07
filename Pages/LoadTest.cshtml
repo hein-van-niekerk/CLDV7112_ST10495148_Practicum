@@ -1,0 +1,27 @@
+﻿@page
+@model ST10495148_Practicum.Pages.LoadTestModel
+@{
+    ViewData["Title"] = "Load Testing";
+}
+
+<div class="container">
+    <h1 class="display-4">Load Testing</h1>
+    <p>Generate test messages to simulate heavy traffic loads.</p>
+
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="MessageCount" class="form-label">Number of Messages:</label>
+            <input asp-for="MessageCount" class="form-control" type="number" min="1" max="10000" />
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Generate Messages</button>
+        <a asp-page="/Dashboard" class="btn btn-secondary">View Dashboard</a>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.Status))
+    {
+        <div class="mt-4 alert @(Model.Status.Contains("✅") ? "alert-success" : "alert-danger")">
+            @Model.Status
+        </div>
+    }
+</div>

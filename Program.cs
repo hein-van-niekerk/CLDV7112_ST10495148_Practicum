@@ -1,13 +1,12 @@
 using Microsoft.EntityFrameworkCore;
-using YourApp.Data;
-using YourApp.Services;
+using ST10495148_Practicum.Data;
+using ST10495148_Practicum.Services;
 using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddRazorPages();
 
-// Configure DbContext with Azure AD authentication
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -17,7 +16,6 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     });
 });
 
-// Add Azure credential for authentication with more explicit options
 builder.Services.AddSingleton(new DefaultAzureCredential(new DefaultAzureCredentialOptions
 {
     ExcludeEnvironmentCredential = false,
@@ -31,8 +29,13 @@ builder.Services.AddSingleton(new DefaultAzureCredential(new DefaultAzureCredent
     ExcludeInteractiveBrowserCredential = false
 }));
 
-// builder.Services.AddSingleton<EventHubService>();
 builder.Services.AddSingleton<SimulatedEventHubService>();
+builder.Services.AddHostedService<DataProcessingService>();
+
+builder.Services.AddApplicationInsightsTelemetry(options =>
+{
+    options.ConnectionString = builder.Configuration["ApplicationInsights:ConnectionString"];
+});
 
 var app = builder.Build();
 
@@ -40,16 +43,22 @@ if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
     app.UseHsts();
-
-    builder.Services.AddApplicationInsightsTelemetry(options =>
-    {
-        options.ConnectionString = builder.Configuration["ApplicationInsights:ConnectionString"];
-    });
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
+
 app.MapRazorPages();
+
+// Redirect root URL to Dashboard
+app.MapGet("/", () => Results.Redirect("/Dashboard"));
+
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    await context.Database.EnsureCreatedAsync();
+}
+
 app.Run();

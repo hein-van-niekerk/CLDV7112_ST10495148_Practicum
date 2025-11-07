@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc;
-using YourApp.Data;
-using YourApp.Models;
-using YourApp.Services;
+using ST10495148_Practicum.Data;
+using ST10495148_Practicum.Models;
+using ST10495148_Practicum.Services;
 
 public class CreateModel : PageModel
 {
