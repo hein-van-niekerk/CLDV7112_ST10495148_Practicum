@@ -1,0 +1,15 @@
+﻿@page
+@model YourApp.Pages.TestConnectionModel
+@{
+    ViewData["Title"] = "Test Database Connection";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Database Connection Test</h1>
+    <div class="mt-4">
+        <h3>@Model.ConnectionStatus</h3>
+    </div>
+    <div class="mt-3">
+        <a asp-page="/Index" class="btn btn-primary">Back to Home</a>
+    </div>
+</div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ST10495148_Practicum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8eafb1e10f21c92b9bf0f0d692acf5dcd2aaae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ST10495148_Practicum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ST10495148_Practicum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
