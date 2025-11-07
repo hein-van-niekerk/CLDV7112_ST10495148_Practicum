@@ -5,6 +5,10 @@ using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add detailed logging
+builder.Logging.AddConsole();
+builder.Logging.AddDebug();
+
 builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -49,16 +53,19 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
-
 app.MapRazorPages();
 
-// Redirect root URL to Dashboard
-app.MapGet("/", () => Results.Redirect("/Dashboard"));
-
-using (var scope = app.Services.CreateScope())
+// Database initialization with error handling
+try 
 {
+    using var scope = app.Services.CreateScope();
     var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     await context.Database.EnsureCreatedAsync();
+}
+catch (Exception ex)
+{
+    var logger = app.Services.GetRequiredService<ILogger<Program>>();
+    logger.LogError(ex, "An error occurred while creating the database.");
 }
 
 app.Run();
